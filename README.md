@@ -9,7 +9,7 @@
 
 ### I build AI systems that actually ship — end-to-end, from pipeline to production.
 
-*Based in Sydney 🇦🇺 · Open to opportunities*
+*Based in Australia 🇦🇺 · Open to opportunities*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irene%20Le-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irenele0101/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-irenefolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://irenefolio-wepbfhsq.manus.space)

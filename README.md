@@ -21,13 +21,13 @@
 
 ## 👩‍💻 About Me
 
-I'm an AI & Data Engineer who specialises in turning messy, domain-specific problems into clean, automated AI systems. My work sits at the intersection of **machine learning**, **data engineering**, and **production deployment** — I don't just train models, I build everything around them.
+I'm a Data Engineer who specialises in turning messy, domain-specific problems into clean, automated AI systems. My work sits at the intersection of **machine learning**, **data engineering**, and **production deployment** — I don't just train models, I build everything around them.
 
 My background spans construction tech (BIM automation), neuroscience research (brain cell segmentation), and edge AI (real-time fire detection on a Raspberry Pi). I'm drawn to problems where AI can replace genuinely painful manual workflows.
 
 ```python
 irene = {
-    "role":        "AI & Data Engineer",
+    "role":        "Data Engineer",
     "location":    "Sydney, Australia",
     "education":   "B.CS — Deakin University (2025)",
     "focus":       ["Applied ML", "Data Pipelines", "RAG Systems", "Computer Vision"],

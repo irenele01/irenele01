@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### I build AI systems that actually ship — end-to-end, from pipeline to production.
+### I build AI systems that actually ship - end-to-end, from pipeline to production.
 
 *Based in Australia 🇦🇺 · Open to opportunities*
 
@@ -111,19 +111,6 @@ A data science system that analyses video frames, captions, and engagement metad
 
 `Computer Vision` `NLP` `Multi-modal AI` `Predictive Analytics`
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Irene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irenele01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irenele01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
